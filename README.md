@@ -7,3 +7,5 @@ The project involves several steps, including data preprocessing, model training
 To use this project, clone the repository using Git and install the required dependencies using pip. The dataset is preprocessed before training the model, which learns to predict temperature based on the input features. Once the model is trained, it is tested on unseen data to evaluate its performance. Predictions can be made by providing new weather data as input, and the model outputs the estimated temperature.
 
 An example prediction can be made using a normalized input array representing weather conditions, and the model predicts the corresponding temperature. This project demonstrates the application of deep learning in weather prediction and can be further improved with additional features and larger datasets.
+
+![Screenshot 2025-04-10 174828](https://github.com/user-attachments/assets/fef2f25d-ba5a-43f0-bf79-bde2e96e4739)
